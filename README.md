@@ -15,7 +15,7 @@
 - 💬 Ask me about `Frontend` or `Backend`
 - ⚡ Fun fact I think I am Robot🤖 who Love Coding 20/7
 
-<img align="right" src="https://github.com/webcog-pk/webcog-pk/blob/main/webcog_dp.png" width="300">
+<img align="right" src="https://github.com/webcog-pk/webcog-pk/blob/main/_dp_webcog.png" width="300">
 
 ## My stack:
 - 3+ years of experience in Python , Django and React
