@@ -106,9 +106,6 @@
   
 </div>
 
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=webcog-pk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Feeding...
 ![Snake animation](https://raw.githubusercontent.com/webcog-pk/webcog-pk/output/github-contribution-grid-snake-dark.svg)
 
