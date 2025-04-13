@@ -11,7 +11,7 @@
 
 ## About me:
 - 🔭 I’m looking to collaborate on commercial projects and startups
-- 📫 How to reach me: [Email](wajahat.webcog@gmail.com)
+- 📫 How to reach me: [Email](hi@pyzit.com)
 - 💬 Ask me about `Frontend` or `Backend`
 - ⚡ Fun fact I think I am Robot🤖 who Love Coding 20/7
 
