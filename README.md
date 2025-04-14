@@ -101,8 +101,8 @@
 ## My Journey
 <div>
 
-  <img width="400px" alt="webcog-pk's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/webcog-pk?cardType=level&theme=onedark&preferLogin=false" />
-  <img width="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=webcog-pk&theme=github" />
+  <img width="400px" alt="webcog-pk's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/pyzit?cardType=level&theme=onedark&preferLogin=false" />
+  <img width="400px" src="https://github-readme-activity-graph.vercel.app/graph?username=pyzit&theme=github" />
   
 </div>
 
